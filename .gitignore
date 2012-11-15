@@ -1,0 +1,5 @@
+Bomberman.pro.user
+Makefile*
+release/*
+debug/*
+vc100.pdb
