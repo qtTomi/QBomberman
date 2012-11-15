@@ -13,3 +13,6 @@ qtcAddDeployment()
 
 RESOURCES += \
     resources.qrc
+
+OTHER_FILES += \
+    View/main.qml
